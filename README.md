@@ -1,4 +1,10 @@
-Coffee Sales Management
+# Coffee Sales Management
+
+Senaryo gereği Starbucks ve Nero kahve firmaları bizden bir backend projesi istemektedir. İstenilenler şu şekildedir;
+- 1) Sisteme kullanıcı kaydı yapılacak ve bilgi verilecek
+- 2) Nero firması herhangi bir kullanıcı doğrulaması talep etmiyor.
+- 3) Starbucks firması kullanıcıların gerçek bir kişi olduğunu kanıtlamak için MERNİS doğrulaması istemektedir.
+- 4) Bunları içeren bir projenin JAVA dilinde senaryo edilmesi ve oluşturulması planlanmaktadır.
 
 # MERNİS ( Kimlik Doğrulama Servisi ) Projeye Ekleme
  
